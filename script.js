@@ -5,7 +5,6 @@ let artirmaButonu = document.querySelector("#artirma");
 let azaltmaButonu = document.querySelector("#azaltma");
 let sifirlamaButonu = document.querySelector("#sifirlama");
 let sayacArkaPlan = document.querySelector("#container");
-let tebrikMetni = document.querySelector("#tebrikMetni");
 
 const artir = () => {
   sayacDegeri++;
